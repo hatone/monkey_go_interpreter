@@ -16,7 +16,7 @@ let add = fn(x,y) {
 	x + y;
 };
 
-let resut = add(five, ten);
+let result = add(five, ten);
 `
 	tests := []struct {
 		expectedType    token.TokenType
