@@ -34,6 +34,9 @@ const (
 	RPAREN = ")"
 	LBRACE = "{"
 	RBRACE = "}"
+	
+	EQ = "=="
+	NOT_EQ = "=="
 
 	// Keywords
 	FUNCTION = "FUNCTION"
