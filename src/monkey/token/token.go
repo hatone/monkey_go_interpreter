@@ -36,7 +36,7 @@ const (
 	RBRACE = "}"
 	
 	EQ = "=="
-	NOT_EQ = "=="
+	NOT_EQ = "!="
 
 	// Keywords
 	FUNCTION = "FUNCTION"
